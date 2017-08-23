@@ -107,12 +107,12 @@
     <Content Include="font\glyphicons-halflings-regular.woff" />
     <Content Include="font\glyphicons-halflings-regular.woff2" />
     <Content Include="Profile.html" />
+    <Content Include="script\alert.js" />
     <Content Include="script\carousel.js" />
     <Content Include="script\Chart.bundle.js" />
     <Content Include="script\Chart.js" />
     <Content Include="script\jQuery-2.1.4.min.js" />
     <Content Include="script\jquery.cycle2.min.js" />
-    <Content Include="script\month.js" />
     <Content Include="script\utils.js" />
     <Content Include="style\default\Thumbs.db" />
     <None Include="Web.Debug.config">

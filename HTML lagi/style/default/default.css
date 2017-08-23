@@ -67,3 +67,11 @@ align-content :center;
       bottom : inherit;
       margin-bottom : 20px;
   }
+
+  .Profile
+  {
+      width:auto;
+      margin: 50%;
+      align-content:left;
+    
+  }
